@@ -1,0 +1,55 @@
+[[main]]
+name = "Home"
+url = ""
+weight = 10
+
+[[main]]
+name = "Download"
+url = "download"
+weight = 20
+title = "Download"
+
+
+[[main]]
+identifier = "Features"
+name = "🚀Features"
+url = "page"
+weight = 50
+
+
+[[main]]
+identifier = "Donate"
+name = "⚡Donate"
+url = "donate"
+weight = 60
+
+
+[[social]]
+  name = "GitHub"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='images/feather/feather-sprite.svg#github'/></svg>"
+  url = "https://github.com/andreasgriffin/bitcoin-safe"
+  weight = 10
+  title = "Visit the GitHub project"
+
+
+# [[social]]
+#   name = "Email"
+#   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-mail'><use href='images/feather/feather-sprite.svg#mail'/></svg>"
+#   url = "https://primal.net/p/npub1q67f4d7qdja237us384ryeekxsz88lz5kaawrcynwe4hqsnufr6s27up0e"
+#   weight = 10
+#   title = "Mail me"
+
+# [[social]]
+#   name = "Nostr"
+#   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/images/nostr_logo_blk.svg'/></svg>"
+#   url = "https://primal.net/p/npub1q67f4d7qdja237us384ryeekxsz88lz5kaawrcynwe4hqsnufr6s27up0e"
+#   weight = 20
+#   title = "Visit me on Nostr"
+
+
+[[social]]
+  name = "Twitter"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-twitter'><use href='images/feather/feather-sprite.svg#twitter'/></svg>"
+  url = "https://primal.net/p/npub1q67f4d7qdja237us384ryeekxsz88lz5kaawrcynwe4hqsnufr6s27up0e"
+  weight = 20
+  title = "Contact on Twitter"
