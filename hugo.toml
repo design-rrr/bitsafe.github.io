@@ -1,0 +1,4 @@
+baseURL = 'https://bitcoin-safe.org/'
+languageCode = 'en-us'
+title = 'Bitcoin Safe'
+theme = "hugo-bootstrap-theme"
