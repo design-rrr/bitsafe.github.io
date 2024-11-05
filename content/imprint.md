@@ -17,4 +17,4 @@ menu:
 - El Salvador
 
 
-Contact: bitcoinsafe.strobe206@aleeas.com
+Contact: see [Contact](/contact)
