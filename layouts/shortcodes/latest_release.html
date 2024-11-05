@@ -5,7 +5,9 @@
 
 {{/* Check for "b" in the version name to display beta warning */}}
 {{ if findRE "b" $release.name }}
-  <p style="color: rgb(206, 132, 21); font-weight: bold;">Beta Version - Use with caution</p>
+<div class="alert alert-warning" role="alert">
+  Beta Version - Use with caution
+</div> 
 {{ end }}
 
 
