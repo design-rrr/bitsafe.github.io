@@ -15,4 +15,5 @@ keywords: ["send"]
 
 
 ![](https://raw.githubusercontent.com/andreasgriffin/bitcoin-safe/refs/heads/main/docs/send.gif)
+{ .img-fluid .mb-5 }
 

@@ -5,6 +5,7 @@ draft: false
 tags: ["Featured" ]
 images: [ "logo.png" ]
 keywords: ["send"]
+previewimage: "logo.png"
 ---
 
 ### {{< page-title >}} 
@@ -14,4 +15,5 @@ keywords: ["send"]
 
 
 ![](https://raw.githubusercontent.com/andreasgriffin/bitcoin-safe/refs/heads/main/docs/psbt-share.gif)
+{ .img-fluid .mb-5 }
 

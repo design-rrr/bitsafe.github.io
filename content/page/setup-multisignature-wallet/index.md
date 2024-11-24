@@ -15,4 +15,4 @@ keywords: ["Multisignature"]
 
 
 ![Setup Multisignature Wallet](https://raw.githubusercontent.com/andreasgriffin/bitcoin-safe/refs/heads/main/docs/multisig-setup.gif)
-
+{ .img-fluid .mb-5 }

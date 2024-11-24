@@ -15,12 +15,16 @@ keywords: ["Multisignature"]
 
 
 ![lick export](logo.png)
+{ .img-fluid .mb-5 }
 
 ![1](1.png)
+{ .img-fluid .mb-5 }
 
 
 ![2](2.png)
+{ .img-fluid .mb-5 }
 
 
 ![3](3.png)
+{ .img-fluid .mb-5 }
 
