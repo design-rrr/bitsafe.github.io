@@ -1,6 +1,6 @@
 ---
 title: "SyncTalk"
-description: "Showing all steps to create and send a transation"
+description: "Label Synchronization, Backup and Multi-Party Multisig-Chat"
 draft: false
 tags: ["Featured" ]
 images: [ "logo.png" ]
