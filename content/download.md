@@ -14,10 +14,7 @@ menu:
 {{< latest_release >}}
 
 
-##### <img src="/images/apple-icon.svg" width="24px" height="24px"> Mac OS X 
-
-For  Mac OS X please see the [Readme](https://github.com/andreasgriffin/bitcoin-safe?tab=readme-ov-file#mac)
-
+**Bitcoin Safe notifies you of a newer version and verifies the authenticity automatically.**
 
 
 ####  Verify signature
@@ -30,4 +27,12 @@ gpg import 2759AA7148568ECCB03B76301D82124B440F612D.asc
 gpg --verify Bitcoin-Safe-{{< latest_version >}}-x86_64.AppImage.asc
 ```
 
-When you update through Bitcoin Safe to a newer version, the signature is verified automatically.
+
+
+
+##### Alternative install  via pip  on Mac, Linux, or Windows 
+PyPi: https://pypi.org/project/bitcoin-safe/
+```python
+python -m pip install bitcoin-safe
+python -m bitcoin_safe
+```
