@@ -1,6 +1,6 @@
 ---
 title: "Search"
-description: "Easy search across all open wallets"
+description: "Type to search across all open wallets"
 draft: false
 tags: ["Featured" ]
 images: [ "logo.png" ]

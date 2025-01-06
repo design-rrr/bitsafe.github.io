@@ -5,6 +5,7 @@ draft: false
 tags: ["Featured", "Multisignature"]
 images: ["logo.png"]
 keywords: ["Multisignature"]
+weight: 15
 ---
 
 ### {{< page-title >}} 
