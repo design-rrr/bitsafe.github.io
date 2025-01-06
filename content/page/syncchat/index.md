@@ -2,7 +2,7 @@
 title: "Sync & Chat"
 description: "Label Synchronization, Backup and Multi-Party Multisig-Chat"
 draft: false
-tags: ["Featured" ]
+tags: ["Featured", "sync" ]
 images: [ "logo.png" ]
 keywords: ["send"]
 previewimage: "logo.png"
