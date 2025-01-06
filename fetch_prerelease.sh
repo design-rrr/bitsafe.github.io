@@ -7,7 +7,7 @@ REPO="andreasgriffin/bitcoin-safe"
 PRE_RELEASES_API_URL="https://api.github.com/repos/$REPO/releases"
 
 # Output file for the latest prerelease
-PRERELEASE_OUTPUT_FILE="data/latest_prerelease.json"
+PRERELEASE_OUTPUT_FILE="data/latest_release.json"
 
 mkdir -p data
 
