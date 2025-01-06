@@ -16,7 +16,7 @@ weight: 100
 <br>
 <!-- <br> -->
 
-###  Secure Bitcoin storage made Easy
+### ✔ Secure Bitcoin storage made Easy 
 <!-- - ❌ 2-of-3 Multisignature is complex to use in other wallets -->
 <!-- - 2-of-3 Multi-signature is a good choice  
     - Robust against loss or leak of 1 seed  -->
@@ -31,7 +31,7 @@ weight: 100
 
 <br>
 
-####  Label Synchronization and Backup
+#### ✔ Label Synchronization and Backup
 
 {{<text-name-with-logo>}} will magically  (through the power of encrypted  <a href="https://nostr.com/ ">nostr</a> messages) 
 - <a  href="/page/label-sync" role="button">Synchronize</a> your coin categories and labels across computers
@@ -40,7 +40,7 @@ weight: 100
 
 <br>
 
-####   Multi-party Multi-sig collaboration
+####  ✔ Multi-party Multi-sig collaboration
 
 Participate in a 3-of-5 Multi-sig wallet?
 
@@ -52,7 +52,7 @@ Participate in a 3-of-5 Multi-sig wallet?
 <br>
 
 
-#### Organize addresses in coin categories
+#### ✔ Organize addresses in coin categories
 
  <img  src="coin-categories.png" width="150"> 
  
@@ -64,7 +64,7 @@ Participate in a 3-of-5 Multi-sig wallet?
 <br>
 
 
-#### Removing possibilities for mistakes
+#### ✔ Removing possibilities for mistakes
 
 People have made many expensive mistakes in the past. Most of them can be prevented if people **never**  type a seed into a computer. {{<text-name-with-logo>}} prevents you from using  seeds on your computer, and encourages you to use a hardware signer.
 

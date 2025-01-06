@@ -1,5 +1,5 @@
 ---
-title: "Multi-signature setup wizard"
+title: "Setup wizard - Single & Multisig"
 description: "Bitcoin Safe setup wizard guides you through the steps to create a safe bitcoin wallet"
 draft: false
 tags: ["Featured", "Multisignature"]
