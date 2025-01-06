@@ -34,7 +34,7 @@ weight: 100
 ####  Label Synchronization and Backup
 
 {{<text-name-with-logo>}} will magically  (through the power of encrypted  <a href="https://nostr.com/ ">nostr</a> messages) 
-- <a  href="/page/syncchat" role="button">Synchronize</a> your coin categories and labels across computers
+- <a  href="/page/label-sync" role="button">Synchronize</a> your coin categories and labels across computers
 - Backup your coin categories and labels.  All you have to do is  backup a short backup-key.
  
 
@@ -44,13 +44,24 @@ weight: 100
 
 Participate in a 3-of-5 Multi-sig wallet?
 
-- After the wallet is created {{<text-name-with-logo>}} creates an encrypted group chat  to collaborate and   send PSBTs around to sign. 
-- Label synchronization  works of course too.
+- After the wallet is created {{<text-name-with-logo>}} creates an encrypted <a href="https://nostr.com/ ">nostr</a> group chat  to collaborate and  <a  href="/page/collaboration" role="button">send PSBTs</a>  around to sign. 
+-  <a  href="/page/label-sync" role="button">Label synchronization</a>  works of course too.
 - For security each participant has to authenticate (a simple click) each other user
 
 
 <br>
 
+
+#### Organize addresses in coin categories
+
+ <img  src="coin-categories.png" width="150"> 
+ 
+- You can cluster addresses in **coin categories**. It's easier than labeling each address.
+- For each PSBT you create you select the matching coin category and {{<text-name-with-logo>}}   will select the inputs only from it.   
+- {{<text-name-with-logo>}}   warns if a PSBT or transaction combines coin categories.
+
+
+<br>
 
 
 #### Removing possibilities for mistakes
@@ -75,14 +86,3 @@ People have made many expensive mistakes in the past. Most of them can be preven
 
 <br>
 
-
-#### Organize addresses in coin categories
-
- <img  src="coin-categories.png" width="150"> 
- 
-- You can cluster addresses in **coin categories**. It's easier than labeling each address.
-- For each PSBT you create you select the matching coin category and {{<text-name-with-logo>}}   will select the inputs only from it.   
-- {{<text-name-with-logo>}}   warns if a PSBT or transaction combines coin categories.
-
-
-<br>

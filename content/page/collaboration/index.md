@@ -1,12 +1,12 @@
 ---
-title: "Sync & Chat"
-description: "Label Synchronization, Backup and Multi-Party Multisig-Chat"
+title: "Collaboration in a Multisig"
+description: "Send a PSBT between participants in a Multi-party Multisig wallet"
 draft: false
 tags: ["Featured", "sync" ]
 images: [ "logo.png" ]
 keywords: ["send"]
 previewimage: "logo.png"
-weight: 18
+weight: 0
 ---
 
 ### {{< page-title >}} 
