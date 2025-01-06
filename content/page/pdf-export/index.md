@@ -14,7 +14,7 @@ keywords: ["Multisignature"]
 
 
 
-![lick export](logo.png)
+![lick export](step1.png)
 { .img-fluid .mb-5 }
 
 ![1](1.png)

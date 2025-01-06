@@ -1,6 +1,6 @@
 ---
-title: "Setup Multisignature Wallet"
-description: "How to setup a Multisiganture wallet with Bitcoin Safe"
+title: "Multi-signature setup wizard"
+description: "Bitcoin Safe setup wizard guides you through the steps to create a safe bitcoin wallet"
 draft: false
 tags: ["Featured", "Multisignature"]
 images: ["logo.png"]
