@@ -1,6 +1,6 @@
 ---
 title: "Why choose Bitcoin Safe?"
-description: "Several Desktop Bitcoin are available. Why choose Bitcoin Safe?"
+description: "Several Desktop Bitcoin wallets are available. See what makes Bitcoin Safe stand out."
 draft: false
 tags: ["Featured"]
 images: ["logo.png"]
@@ -83,6 +83,21 @@ People have made many expensive mistakes in the past. Most of them can be preven
     </div>
 
    
+
+<br>
+
+
+
+
+#### ✔ 🔋Batteries included🔋 
+
+
+{{<text-name-with-logo>}} is designed to be easy to use. However all important power user features are included.
+- Choose your own electrum/esplora server, mempool instance, and nostr relay
+- CSV import & export everywhere
+- RBF, Canceling a transaction, and editing a finalized PSBT
+- and waaaay more: see the <a href="https://github.com/andreasgriffin/bitcoin-safe?tab=readme-ov-file#comprehensive-feature-list">full feature list</a>
+
 
 <br>
 
