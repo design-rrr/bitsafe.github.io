@@ -22,7 +22,7 @@ weight: 100
 - El {{<text-name-with-logo>}} <a href="/page/setup-multisignature-wallet" role="button">asistente de configuración</a> hace que las configuraciones de firmas únicas y multifirma sean **fáciles** para personas no técnicas.
     --> Simplemente sigue cada paso para configurar una billetera segura.
     <img src="/images/multisig-steps.png" style="max-width: 600px; width: 100%;">
-    - El <a href="/page/pdf-export" role="button"> <img src="/page/usps/pdf-export.png" width="100"> PDF Export</a> te ayuda a respaldar el descriptor importante de la billetera con cada semilla.
+    - El <a href="/page/pdf-export" role="button"> <img src="/en/page/usps/pdf-export.png" width="100"> PDF Export</a> te ayuda a respaldar el descriptor importante de la billetera con cada semilla.
     - Registra la multifirma con cada dispositivo de hardware.
     - Incluye pruebas de recepción y gasto desde la billetera para asegurar que todos los dispositivos de hardware funcionen.
 <br>
@@ -52,7 +52,7 @@ weight: 100
 
 #### ✔ Organiza direcciones en categorías de monedas
 
- <img src="/page/usps/coin-categories.png" width="150"> 
+ <img src="/en/page/usps/coin-categories.png" width="150"> 
  
 - Puedes agrupar direcciones en **categorías de monedas**. Es más fácil que etiquetar cada dirección.
 - Para cada PSBT que crees, seleccionas la categoría de moneda correspondiente y {{<text-name-with-logo>}} seleccionará las entradas solo de esa categoría.
