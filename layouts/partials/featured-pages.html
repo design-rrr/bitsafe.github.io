@@ -1,6 +1,9 @@
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-    {{ $sortedPages := sort .tags "Params.weight" "desc" }}
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4"> 
+    
+    {{ $tags := .tags | default (slice) }}
+    {{ $sortedPages := sort $tags "Params.weight" "desc" }}
     {{ range $sortedPages }}
+
         <div class="col">
 
             <div class="card h-100">

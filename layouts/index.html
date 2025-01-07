@@ -12,14 +12,13 @@
       <div class="mb-4">
         {{ partial "carousel" (dict "folder" "screenshots") }}
       </div>
-      <a class="btn btn-bd-primary btn-lg px-4 mb-2" href="download" role="button">Download</a>
-      <br>Available for Windows, MacOS, and Linux
+      {{ partial (printf "download-button.%s" .Site.Language.Lang) . }}
     </div>
   </div>
 </section>
 
 <section class="section container my-3">
-  {{ partial "features" . }}
+  {{ partial (printf "features.%s" .Site.Language.Lang) . }}
 </section>
 
 
@@ -31,7 +30,6 @@
 
 <section class="section container my-3">
   <h3 class="text-secondary text-center my-5">Features</h3>
-  {{ partial "featured-pages" (dict "tags" .Site.Taxonomies.tags.featured) }}
+  {{ partial "featured-pages" (dict "context" . "tags" .Site.Taxonomies.tags.featured) }}
 </section>
-
 {{ end }}

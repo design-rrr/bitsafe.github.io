@@ -5,6 +5,19 @@
   [en.params]
     languageISO = "EN"
 
+
+
+[es]
+  languageName = "Spanish"
+  languageCode = "es-ES"
+  weight = 30
+  [es.params]
+    languageISO = "ES"
+    description = "Una billetera de ahorros de bitcoin para toda la familia."
+
+
+
+
 # [de]
 #   languageName = "German"
 #   languageCode = "de-DE"

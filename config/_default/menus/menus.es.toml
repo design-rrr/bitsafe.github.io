@@ -1,25 +1,23 @@
 [[main]]
-name = "Home"
+name = "Inicio"
 url = ""
 weight = 10
 
 [[main]]
-name = "Download"
+name = "Descargar"
 url = "download"
 weight = 20
-title = "Download"
-
+title = "Descargar"
 
 [[main]]
 identifier = "Features"
-name = "🚀Features"
+name = "🚀Características"
 url = "page"
 weight = 50
 
-
 [[main]]
 identifier = "Donate"
-name = "⚡Donate"
+name = "⚡Donar"
 url = "donate"
 weight = 60
 
@@ -30,6 +28,7 @@ weight = 60
   url = "https://github.com/andreasgriffin/bitcoin-safe"
   weight = 10
   title = "Visit the GitHub project"
+
 
 
 # [[social]]
