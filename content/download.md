@@ -16,10 +16,11 @@ menu:
 
 ✅ **Bitcoin Safe notifies you of a newer version and verifies the authenticity automatically.**
 
-<br>
+
+Windows binary files are signed, check the [Code signing policy](/en/code-signing-policy). See here the   [Bitcoin Safe privacy policy](/en/code-signing-policy).  The  MacOS binaries are not signed, so please disregard the warning message.
 
 <br>
-
+<br>
 
 ###  Verify signature
 
@@ -30,6 +31,8 @@ Import my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/2759AA7148
 gpg import 2759AA7148568ECCB03B76301D82124B440F612D.asc
 gpg --verify Bitcoin-Safe-{{< latest_version >}}-x86_64.AppImage.asc
 ```
+
+
 
 
 

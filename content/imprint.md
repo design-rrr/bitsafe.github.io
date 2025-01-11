@@ -17,4 +17,4 @@ menu:
 - El Salvador
 
 
-Contact: see [Contact](/contact)
+Contact: see [Contact](/en/contact)

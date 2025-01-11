@@ -18,8 +18,13 @@ menu:
 
 ✅ **Bitcoin Safe te informa de una nueva versión y verifica automáticamente la autenticidad.**
 
-<br>
 
+
+Los archivos binarios de Windows están firmados, consulta la [Política de firmado de código](/es/code-signing-policy). Ver aquí la  [Política de privacidad de Bitcoin Safe](/es/code-signing-policy).
+
+
+
+<br>
 <br>
 
 ### **Verificar firma**

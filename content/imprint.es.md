@@ -18,4 +18,4 @@ menu:
 - El Salvador
 
 
-Contacto: vea [Contacto](/contact)
+Contacto: vea [Contacto](/en/contact)

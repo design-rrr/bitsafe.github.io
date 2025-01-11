@@ -25,7 +25,7 @@ weight: 100
     <img  src="/images/multisig-steps.png" style="max-width: 600px; width: 100%;">
     - The <a  href="/page/pdf-export" role="button"> <img  src="pdf-export.png" width="100">  PDF Export</a>   helps you to backup the important wallet descriptor with each seed.
     - Register the Multi-signature with each hardware signer 
-    - Includes test receiving and spending from the wallet, to ensure all hardware signers work
+    - Includes test receiving and spending from the wallet, to ensure all major hardware signers work
 <br>
 
 
