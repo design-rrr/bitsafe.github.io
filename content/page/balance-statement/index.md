@@ -3,7 +3,7 @@ title: "Balance Statement "
 description: "Exports a PDF balance statement"
 draft: false
 tags: ["Featured", "Multisignature"]
-images: ["logo.png"]
+images: ["logo.jpg"]
 keywords: ["Multisignature"]
 weight: 16
 ---
@@ -18,6 +18,6 @@ weight: 16
 ![lick export](step1.png)
 { .img-fluid .mb-5 }
 
-![lick export](logo.png)
+![lick export](page.png)
 { .img-fluid .mb-5 }
 
