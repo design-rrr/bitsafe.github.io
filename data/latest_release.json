@@ -64,7 +64,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 118354904,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:33:18Z",
       "updated_at": "2025-01-17T14:34:06Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-arm64.dmg"
@@ -99,7 +99,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 833,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:30:46Z",
       "updated_at": "2025-01-17T14:30:46Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-arm64.dmg.asc"
@@ -134,7 +134,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 117090080,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:30:47Z",
       "updated_at": "2025-01-17T14:31:41Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-portable.exe"
@@ -169,7 +169,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 833,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:30:44Z",
       "updated_at": "2025-01-17T14:30:44Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-portable.exe.asc"
@@ -204,7 +204,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 81464688,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:34:06Z",
       "updated_at": "2025-01-17T14:34:39Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-setup.exe"
@@ -239,17 +239,17 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 833,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:30:45Z",
       "updated_at": "2025-01-17T14:30:45Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-setup.exe.asc"
     },
     {
-      "url": "https://api.github.com/repos/andreasgriffin/bitcoin-safe/releases/assets/221184701",
-      "id": 221184701,
-      "node_id": "RA_kwDOJfpJyM4NLwK9",
+      "url": "https://api.github.com/repos/andreasgriffin/bitcoin-safe/releases/assets/221188833",
+      "id": 221188833,
+      "node_id": "RA_kwDOJfpJyM4NLxLh",
       "name": "Bitcoin-Safe-1.0.1-x86_64.AppImage",
-      "label": "",
+      "label": null,
       "uploader": {
         "login": "andreasgriffin",
         "id": 116060138,
@@ -271,20 +271,20 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "content_type": "application/octet-stream",
+      "content_type": "application/vnd.appimage",
       "state": "uploaded",
-      "size": 235902144,
+      "size": 230401216,
       "download_count": 0,
-      "created_at": "2025-01-17T14:31:42Z",
-      "updated_at": "2025-01-17T14:33:17Z",
+      "created_at": "2025-01-17T14:55:06Z",
+      "updated_at": "2025-01-17T14:56:47Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-x86_64.AppImage"
     },
     {
-      "url": "https://api.github.com/repos/andreasgriffin/bitcoin-safe/releases/assets/221184517",
-      "id": 221184517,
-      "node_id": "RA_kwDOJfpJyM4NLwIF",
+      "url": "https://api.github.com/repos/andreasgriffin/bitcoin-safe/releases/assets/221189031",
+      "id": 221189031,
+      "node_id": "RA_kwDOJfpJyM4NLxOn",
       "name": "Bitcoin-Safe-1.0.1-x86_64.AppImage.asc",
-      "label": "",
+      "label": null,
       "uploader": {
         "login": "andreasgriffin",
         "id": 116060138,
@@ -306,12 +306,12 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "content_type": "application/octet-stream",
+      "content_type": "text/plain",
       "state": "uploaded",
       "size": 833,
       "download_count": 0,
-      "created_at": "2025-01-17T14:30:46Z",
-      "updated_at": "2025-01-17T14:30:47Z",
+      "created_at": "2025-01-17T14:56:52Z",
+      "updated_at": "2025-01-17T14:56:52Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-x86_64.AppImage.asc"
     },
     {
@@ -344,7 +344,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 154533525,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:34:39Z",
       "updated_at": "2025-01-17T14:35:45Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-x86_64.dmg"
@@ -379,7 +379,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 833,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-01-17T14:30:46Z",
       "updated_at": "2025-01-17T14:30:46Z",
       "browser_download_url": "https://github.com/andreasgriffin/bitcoin-safe/releases/download/1.0.1/Bitcoin-Safe-1.0.1-x86_64.dmg.asc"
@@ -387,5 +387,5 @@
   ],
   "tarball_url": "https://api.github.com/repos/andreasgriffin/bitcoin-safe/tarball/1.0.1",
   "zipball_url": "https://api.github.com/repos/andreasgriffin/bitcoin-safe/zipball/1.0.1",
-  "body": "### Improvements and Fixes\r\n\r\n- Fixes missing USB (HWI) support in Windows and Mac builds\r\n- Dark mode support\r\n- Added delete coin category (via right click context menu) additionally to the \"drag to delete button\" method\r\n\r\n\r\n\r\n### 🔋Batteries included🔋\r\nLots of existing features were not mentioned above, so please check out:\r\n\r\n- [Why choose Bitcoin Safe?](https://bitcoin-safe.org/en/page/usps/)\r\n- www.bitcoin-safe.org\r\n- [Readme](https://github.com/andreasgriffin/bitcoin-safe?tab=readme-ov-file#bitcoin-safe) and [Comprehensive Feature List](https://github.com/andreasgriffin/bitcoin-safe?tab=readme-ov-file#comprehensive-feature-list)\r\n- Follow me on [nostr](https://primal.net/p/npub1q67f4d7qdja237us384ryeekxsz88lz5kaawrcynwe4hqsnufr6s27up0e)\r\n\r\n\r\n####  Verify signature\r\n\r\nImport my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/2759AA7148568ECCB03B76301D82124B440F612D) and verify the signature with:\r\n```bash\r\ngpg --import 2759AA7148568ECCB03B76301D82124B440F612D.asc\r\ngpg --verify Bitcoin-Safe-1.0.1-x86_64.AppImage.asc\r\n```\r\n\r\n#### Install and run on Mac, Linux, or Windows\r\nusing the [python package ](https://pypi.org/project/bitcoin-safe/)  \r\n```bash\r\npython3 -m pip install bitcoin-safe\r\npython3 -m bitcoin_safe\r\n```\r\n"
+  "body": "### Improvements and Fixes\r\n\r\n- Fixes missing USB (HWI) support in Windows and Mac builds\r\n- Dark mode support\r\n- Added delete coin category (via right click context menu) additionally to the \"drag to delete button\" method\r\n\r\n\r\n\r\n### 🔋Batteries included🔋\r\nLots of existing features were not mentioned above, so please check out:\r\n\r\n- [Why choose Bitcoin Safe?](https://bitcoin-safe.org/en/page/usps/) \r\n- www.bitcoin-safe.org\r\n- [Readme](https://github.com/andreasgriffin/bitcoin-safe?tab=readme-ov-file#bitcoin-safe) and [Comprehensive Feature List](https://github.com/andreasgriffin/bitcoin-safe?tab=readme-ov-file#comprehensive-feature-list)\r\n- Follow me on [nostr](https://primal.net/p/npub1q67f4d7qdja237us384ryeekxsz88lz5kaawrcynwe4hqsnufr6s27up0e)\r\n- Overview by nobsbitcoin:  https://www.nobsbitcoin.com/bitcoin-safe-v1-0/\r\n\r\n####  Verify signature\r\n\r\nImport my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/2759AA7148568ECCB03B76301D82124B440F612D) and verify the signature with:\r\n```bash\r\ngpg --import 2759AA7148568ECCB03B76301D82124B440F612D.asc\r\ngpg --verify Bitcoin-Safe-1.0.1-x86_64.AppImage.asc\r\n```\r\n\r\n#### Install and run on Mac, Linux, or Windows\r\nusing the [python package ](https://pypi.org/project/bitcoin-safe/)  \r\n```bash\r\npython3 -m pip install bitcoin-safe\r\npython3 -m bitcoin_safe\r\n```\r\n"
 }
