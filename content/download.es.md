@@ -42,13 +42,13 @@ gpg --verificar Bitcoin-Safe-{{< latest_version >}}-x86_64.AppImage.asc
 <br>
 
 <br>
-
+<!-- 
 ### **Instalación alternativa mediante pip en Mac, Linux o Windows**
 PyPi: https://pypi.org/project/bitcoin-safe/
 ```bash
 python -m pip install bitcoin-safe
 python -m bitcoin_safe
 ```
-Spero te sea útil.
+Spero te sea útil. -->
 
 
