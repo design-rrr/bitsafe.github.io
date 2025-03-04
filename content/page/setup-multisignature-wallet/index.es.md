@@ -8,12 +8,17 @@ keywords: ["Multisignature"]
 weight: 20
 ---
 
-### {{< page-title >}} 
-{{< page-description >}} 
 
-<br>
+# Billetera de Firma Única
 
+¿Quieres asegurar tu Bitcoin de la manera correcta? Aprende cómo configurar una billetera en Bitcoin-Safe.org con Trezor  
+! 🔐💰
 
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/m0g6ytYTy0w?si=0YPYyfdtIptF6bLy" title="Reproductor de video de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Setup Multisignature Wallet](https://raw.githubusercontent.com/andreasgriffin/bitcoin-safe/refs/heads/main/docs/multisig-setup.gif)
+<br><br>
+
+# Billetera de Firma Múltiple
+
+![Configura una Billetera Multisignatura](https://raw.githubusercontent.com/andreasgriffin/bitcoin-safe/refs/heads/main/docs/multisig-setup.gif)
 { .img-fluid .mb-5 }
