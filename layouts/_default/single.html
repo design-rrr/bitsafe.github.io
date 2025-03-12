@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<div class="container py-3">
+  {{ .Content }}
+
+  {{ if .Params.videos }}
+    {{ partial "video-gallery.html" . }} 
+  {{ end }}  
+</div>
+
+{{ end }}

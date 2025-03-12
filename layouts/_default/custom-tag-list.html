@@ -1,0 +1,5 @@
+{{ define "main" }}
+  <div class="container py-3">
+    {{ partial "featured-pages" (dict "context" . "tags" (index .Site.Taxonomies.tags .Params.tag)) }}
+  </div>
+{{ end }}

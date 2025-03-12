@@ -12,7 +12,7 @@ title = "Descargar"
 [[main]]
 identifier = "Features"
 name = "🚀Características"
-url = "page"
+url = "features"
 weight = 50
 
 [[main]]

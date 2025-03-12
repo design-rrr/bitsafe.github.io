@@ -13,8 +13,14 @@ title = "Download"
 [[main]]
 identifier = "Features"
 name = "🚀Features"
-url = "page"
+url = "features"
 weight = 50
+
+[[main]]
+identifier = "Knowledge"
+name = "🏫Knowledge"
+url = "knowledge"
+weight = 55
 
 
 [[main]]
