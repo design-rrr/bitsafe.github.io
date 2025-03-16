@@ -67,7 +67,7 @@ Las personas han cometido errores costosos en el pasado. La mayoría pueden prev
 
 - {{<text-name-with-logo>}} tiene soporte completo para los dispositivos de hardware más comunes (por ejemplo, <a href="https://store.coinkite.com/promo/8BFF877000C34A86F410">Coldcard</a>, 
             <a href="https://store.coinkite.com/promo/8BFF877000C34A86F410">Coldcard Q</a>, 
-            <a href="https://shiftcrypto.ch/bitbox02/?ref=MOB4dk7gpm">Bitbox02</a>, 
+            <a href="https://shop.bitbox.swiss/?ref=MOB4dk7gpm">Bitbox02</a>, 
             <a href="https://store.blockstream.com/?code=XEocg5boS77D">Blockstream Jade</a>,    
             <a href="https://trezor.io/trezor-safe-5-bitcoin-only">Trezor Safe</a>,
             <a href="https://foundation.xyz/passport">Foundation Passport</a>,

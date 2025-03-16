@@ -25,7 +25,7 @@ display_items:
     description: ""
   2-bitbox02:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/bitbox02-multi-thumb.webp"
-    target_url: "https://shiftcrypto.ch/bitbox02/?ref=MOB4dk7gpm"
+    target_url: "https://shop.bitbox.swiss/?ref=MOB4dk7gpm"
     title: "Bitbox02"
     description: ""    
   4-jade:
@@ -62,7 +62,7 @@ display_items:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/specter-diy-thumb.webp"
     target_url: "https://clavastack.com/?coupon=bitcoin-safe"
     title: "Specter Shield"
-    description: ""    
+    description: "Get 5% off"    
 ---
 
 ### {{< page-title >}}  
