@@ -44,6 +44,15 @@ display_items:
       <img src="/images/usb.svg"  class="coloredicon"  style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="USB logo">
       Elige el firmware solo para Bitcoin
       '
+  3-passport:
+    image_url: "https://thebitcoinhole.com/img/hardware-wallets/passport-batch-2-thumb.webp"
+    target_url: "https://foundation.xyz/passport"
+    title: "Foundation Passport"
+    description: '
+      <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
+      <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
+      <span class="bitcoin-only">Bitcoin-only</span>
+      '
   4-jade:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/jade-thumb.webp"
     target_url: "https://store.blockstream.com/?code=XEocg5boS77D"
@@ -53,7 +62,7 @@ display_items:
       <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
       <span class="bitcoin-only">Bitcoin-only</span>
       '
-  3-jadeplus:
+  5-jadeplus:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/jade-plus-metal-thumb.webp"
     target_url: "https://store.blockstream.com/?code=XEocg5boS77D"
     title: "Jade Plus"
@@ -63,7 +72,7 @@ display_items:
       <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
       <span class="bitcoin-only">Bitcoin-only</span>
       '
-  7-trezor:
+  6-trezor:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/trezor-safe-5-btconly-thumb.webp"
     target_url: "https://trezor.io/trezor-safe-5-bitcoin-only"
     title: "Trezor Safe 3 & 5"
@@ -71,16 +80,7 @@ display_items:
       <img src="/images/usb.svg"  class="coloredicon"  style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="USB logo">
       Elige el firmware solo para Bitcoin
       '
-  5-passport:
-    image_url: "https://thebitcoinhole.com/img/hardware-wallets/passport-batch-2-thumb.webp"
-    target_url: "https://foundation.xyz/passport"
-    title: "Foundation Passport"
-    description: '
-      <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
-      <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
-      <span class="bitcoin-only">Bitcoin-only</span>
-      '
-  6-keystone:
+  7-keystone:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/keystone-3-pro-thumb.webp"
     target_url: "https://keyst.one"
     title: "Keystone"
