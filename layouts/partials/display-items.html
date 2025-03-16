@@ -1,5 +1,4 @@
 {{/* layouts/partials/display-items.html */}}
-{{/* Try to get items from a passed variable, or fall back to the page’s front matter */}}
 {{ $items := .display_items | default .Page.Params.display_items }}
 
 {{ if $items }}
@@ -19,7 +18,9 @@
               </div>
             {{ end }}
             <p class="card-text mt-3">
-              {{ $item.description }}
+              {{ with $item.description }}
+                {{ . | safeHTML }}
+              {{ end }}
             </p>
           </div>
         </div>
