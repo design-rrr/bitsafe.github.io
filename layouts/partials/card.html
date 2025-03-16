@@ -1,5 +1,13 @@
 <div class="col">
-  <div class="card h-100">
+  <div class="card h-100" style="position: relative;">
+    {{ if .banner }}
+      <!-- Ribbon Container -->
+      <div class="ribbon" style="position: absolute; right: 0px; top: 0px; z-index: 1; overflow: hidden; width: 200px; height: 200px; text-align: right;">
+        <span style="font-weight: bold; color: #000; text-transform: uppercase; text-align: center; line-height: 30px; transform: rotate(45deg); width: 200px; display: block; background: rgba(89.0, 41.0, 212.0, 0.548); box-shadow: 0 3px 10px -5px rgba(0,0,0,1); position: absolute; top: 30px; right: -50px;">
+          {{ .banner | safeHTML }}
+        </span>
+      </div>
+    {{ end }}
     <div class="card-body">
       <h4 class="card-title">
         <a class="stretched-link text-primary text-decoration-none" href="{{ .target_url }}">
