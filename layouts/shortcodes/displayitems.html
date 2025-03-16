@@ -1,0 +1,7 @@
+{{/* layouts/shortcodes/displayitems.html */}}
+{{ $items := .Page.Params.display_items }}
+{{ if $items }}
+  {{ partial "display-items.html" (dict "display_items" $items "Page" .Page) }}
+{{ else }}
+  <p>No display items found in front matter.</p>
+{{ end }}
