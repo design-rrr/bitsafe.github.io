@@ -2,7 +2,7 @@
 title: "Balance Statement "
 description: "Exports a PDF balance statement"
 draft: false
-tags: ["Featured", "Features", "Multisignature"]
+tags: [  "Features", "Multisignature"]
 images: ["logo.jpg"]
 keywords: ["Multisignature"]
 weight: 16

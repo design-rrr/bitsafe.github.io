@@ -1,8 +1,8 @@
 ---
-title: "Setup wizard"
+title: "Step-by-step wallet setup"
 description: "Bitcoin Safe setup wizard guides you through the steps to create a singlesig bitcoin wallet"
 draft: false
-tags: ["Knowledge"]
+tags: ["Featured", "Knowledge"]
 # Download the logo from here https://i.ytimg.com/vi/m0g6ytYTy0w/maxresdefault.jpg
 images: ["maxresdefault.jpg" ]
 keywords: []

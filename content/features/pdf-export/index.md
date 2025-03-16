@@ -2,7 +2,7 @@
 title: "PDF Export"
 description: "Export the pdf backup sheet for a MultiSig wallet"
 draft: false
-tags: ["Featured", "Multisignature","Features"]
+tags: [ "Multisignature","Features"]
 images: ["logo.png"]
 keywords: ["Multisignature"]
 weight: 15

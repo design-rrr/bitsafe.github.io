@@ -2,7 +2,7 @@
 title: "Fully supported hardware signers"
 description: "Fully supported hardware signers for Bitcoin Safe"
 draft: false
-tags: ["Knowledge" ]
+tags: ["Featured","Knowledge" ]
 # Download the logo from here https://i.ytimg.com/vi/xxxxxxxx/maxresdefault.jpg
 images: [ "logo.png" ]
 keywords: []

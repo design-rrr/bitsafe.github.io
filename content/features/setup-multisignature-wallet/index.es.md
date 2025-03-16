@@ -2,7 +2,7 @@
 title: "Wizard de configuración - Único y Bolsillo Multi-Sig"
 description: "Guía de configuración de Bitcoin Safe que te guía a través de los pasos para crear un bolso seguro de bitcoin"
 draft: false
-tags: ["Featured", "Multisignature","Features"]
+tags: [  "Multisignature","Features"]
 images: ["logo.png"]
 keywords: ["Multisignature"]
 weight: 20

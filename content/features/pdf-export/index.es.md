@@ -2,7 +2,7 @@
 title: "Exportación de PDF"
 description: "Exportar la hoja de respaldo PDF de un bolsillo MultiSig"
 draft: false
-tags: ["Featured", "Multisignature","Features"]
+tags: [ "Multisignature","Features"]
 images: ["logo.png"]
 keywords: ["Multisignature"]
 weight: 15

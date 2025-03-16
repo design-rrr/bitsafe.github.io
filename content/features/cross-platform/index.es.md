@@ -2,7 +2,7 @@
 title: "En Windows, MacOS, Linux"
 description: "Disponible en todas las computadoras portátiles o de escritorio: Windows, macOS y Linux"
 draft: false
-tags: ["Featured" ,"Features"]
+tags: [ "Features"]
 images: ["logo.png"]
 keywords: ["Diagram"]
 ---

@@ -2,7 +2,7 @@
 title: "On Windows, MacOS, Linux"
 description: "Available on all desktops: Windows, MacOS, Linux"
 draft: false
-tags: ["Featured","Features" ]
+tags: [ "Features" ]
 images: ["logo.png"]
 keywords: ["Diagram"]
 ---

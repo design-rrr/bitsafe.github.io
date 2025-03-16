@@ -2,7 +2,7 @@
 title: "Create, Sign and Send a transaction"
 description: "Showing all steps to create and send a transation"
 draft: false
-tags: ["Featured","Features" ]
+tags: [ "Features" ]
 images: ["logo.png"]
 keywords: ["send"]
 ---

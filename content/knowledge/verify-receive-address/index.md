@@ -2,7 +2,7 @@
 title: "Verify Receive Addresses"
 description: "Verify Receive Addresses with Trezor & Jade"
 draft: false
-tags: ["Knowledge" ]
+tags: ["Featured", "Knowledge" ]
 # Download the logo from here https://i.ytimg.com/vi/xxxxxxxx/maxresdefault.jpg
 images: ["maxresdefault.jpg" ]
 keywords: []

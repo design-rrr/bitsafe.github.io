@@ -2,7 +2,7 @@
 title: "Declaración de Equilibrio"
 description: "Exporta una declaración de estado del equilibrio en formato PDF"
 draft: false
-tags: ["Featured", "Features", "Multisignature"]
+tags: [  "Features", "Multisignature"]
 images: ["logo.jpg"]
 keywords: ["Multisignature"]
 weight: 15
