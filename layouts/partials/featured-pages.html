@@ -1,4 +1,4 @@
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">   <!-- add this to get 4 columns: row-cols-xl-4  -->
   {{ $tags := .tags | default (slice) }}
   {{ $sortedPages := sort $tags "Params.weight" "desc" }}
   {{ range $sortedPages }}
