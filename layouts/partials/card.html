@@ -1,0 +1,26 @@
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body">
+      <h4 class="card-title">
+        <a class="stretched-link text-primary text-decoration-none" href="{{ .target_url }}">
+          {{ .title | safeHTML }}
+        </a>
+      </h4>
+      {{ with .authors }}
+        <p class="card-subtitle text-muted">
+          by {{ index . 0 }}
+        </p>
+      {{ end }}
+      {{ if .image_url }}
+        <div class="col-md-4 d-flex align-items-center">
+          <img class="img-fluid rounded p-1" src="{{ .image_url }}" loading="lazy" alt="featured image {{ .title }}">
+        </div>
+      {{ end }}
+      <p class="card-text mt-3">
+        {{ with .description }}
+          {{ . | safeHTML }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+</div>

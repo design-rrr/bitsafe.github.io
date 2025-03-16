@@ -1,32 +1,16 @@
-{{/* layouts/partials/display-items.html */}}
 {{ $items := .display_items | default .Page.Params.display_items }}
 
 {{ if $items }}
   <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
     {{ range $key, $item := $items }}
-      <div class="col">
-        <div class="card h-100">
-          <div class="card-body">
-            <h4 class="card-title">
-              <a class="stretched-link text-primary text-decoration-none" href="{{ $item.target_url }}">
-                {{ $item.title }}
-              </a>
-            </h4>
-            {{ if $item.image_url }}
-              <div class="col-md-4 d-flex align-items-center">
-                <img class="img-fluid rounded p-1" src="{{ $item.image_url }}" loading="lazy" alt="featured image {{ $item.title }}">
-              </div>
-            {{ end }}
-            <p class="card-text mt-3">
-              {{ with $item.description }}
-                {{ . | safeHTML }}
-              {{ end }}
-            </p>
-          </div>
-        </div>
-      </div>
+      {{ partial "card.html" (dict 
+          "target_url" $item.target_url 
+          "title" $item.title 
+          "description" $item.description 
+          "image_url" $item.image_url 
+      ) }}
     {{ end }}
   </div>
 {{ else }}
-  <p>No display items provided.</p>
+  <!-- <p>No display items provided.</p> -->
 {{ end }}
