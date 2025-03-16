@@ -15,6 +15,14 @@ name = "🚀Características"
 url = "features"
 weight = 50
 
+
+[[main]]
+identifier = "Conocimiento"
+name = "🏫Conocimiento"
+url = "knowledge"
+weight = 55
+
+
 [[main]]
 identifier = "Donate"
 name = "⚡Donar"

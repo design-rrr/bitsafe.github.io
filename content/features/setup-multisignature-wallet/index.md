@@ -6,6 +6,11 @@ tags: [  "Multisignature","Features"]
 images: ["logo.png"]
 keywords: ["Multisignature"]
 weight: 20
+# embedding videos can be done with 
+# {{< youtube-embed link="https://www.youtube.com/watch?v=dbSmQmt0uDI" >}}
+# or the list will be rendered below the content
+videos:
+  - "https://www.youtube.com/watch?v=m0g6ytYTy0w"
 ---
 
 
@@ -15,9 +20,7 @@ Want to secure your Bitcoin the right way? Learn how to set up a Bitcoin-Safe.or
  ! 🔐💰
 
 
-{{< youtube-embed link="https://www.youtube.com/watch?v=m0g6ytYTy0w" >}}
-
-<!-- <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/m0g6ytYTy0w?si=0YPYyfdtIptF6bLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+{{< youtube-gallery >}}
 
 <br><br> 
 

@@ -1,6 +1,6 @@
 ---
-title: "Verify Receive Addresses"
-description: "Verify Receive Addresses with Trezor & Jade"
+title: "Verificar Direcciones de Recepción"  
+description: "Verificar Direcciones de Recepción con Trezor y Jade"
 draft: false
 tags: ["Featured", "Knowledge" ]
 # Download the logo from here https://i.ytimg.com/vi/xxxxxxxx/maxresdefault.jpg

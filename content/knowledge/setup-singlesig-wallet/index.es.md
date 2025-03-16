@@ -1,6 +1,6 @@
 ---
-title: "Step-by-step wallet setup"
-description: "Bitcoin Safe setup wizard guides you through the steps to create a singlesig bitcoin wallet"
+title: "Configuración paso a paso de la billetera"
+description: "El asistente de configuración de Bitcoin Safe te guía a través de los pasos para crear una billetera Bitcoin de firma única"
 draft: false
 tags: ["Featured", "Knowledge"]
 # Download the logo from here https://i.ytimg.com/vi/m0g6ytYTy0w/maxresdefault.jpg
@@ -14,11 +14,8 @@ videos:
   - "https://www.youtube.com/watch?v=m0g6ytYTy0w"
 ---
 
+# Billetera de Firma Única
 
-# Single Signature Wallet
-
-Want to secure your Bitcoin the right way? Learn how to set up a Bitcoin-Safe.org wallet with Trezor
- ! 🔐💰
-
+¿Quieres asegurar tu Bitcoin de la manera correcta? Aprende a configurar una billetera de Bitcoin-Safe.org con Trezor 🔐💰
 
 {{< youtube-gallery >}}

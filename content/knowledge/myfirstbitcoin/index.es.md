@@ -1,6 +1,6 @@
 ---
-title: "Bitcoin Intro"
-description: "Bitcoin Introductory Course: Transforming Money and the Future of Currency"
+title: "Introducción a Bitcoin"
+description: "Curso introductorio de Bitcoin: Transformando el dinero y el futuro de la moneda"
 draft: false
 tags: ["Knowledge" ]
 # Download the logo from here https://i.ytimg.com/vi/xxxxxxxx/maxresdefault.jpg
@@ -16,10 +16,6 @@ weight: 110
 
 ### {{< page-title >}}  
 
-Learn even more with the [🎓 Bitcoin Diploma](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/main/Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf) of  [MyFirstBitcoin](https://github.com/MyFirstBitcoin/).  
+Aprende aún más con el [🎓 Diploma Bitcoin](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/main/Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf) de [MyFirstBitcoin](https://github.com/MyFirstBitcoin/).  
 
-
-
-{{< youtube-gallery >}} 
-
- 
+{{< youtube-gallery >}}
