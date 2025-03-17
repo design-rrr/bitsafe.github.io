@@ -71,7 +71,7 @@ Las personas han cometido errores costosos en el pasado. La mayoría pueden prev
             <a href="https://store.blockstream.com/?code=XEocg5boS77D">Blockstream Jade</a>,    
             <a href="https://trezor.io/trezor-safe-5-bitcoin-only">Trezor Safe</a>,
             <a href="https://foundation.xyz/passport">Foundation Passport</a>,
-            <a href="https://keyst.one">Keystone</a>,
+            <a href="https://keyst.one/?rfsn=8630473.c25550a&utm_source=refersion&utm_medium=affiliate&utm_campaign=8630473.c25550a">Keystone</a>,
             <a href="https://shop.ledger.com/pages/ledger-nano-s-plus">Ledger</a>,
             <a href="https://clavastack.com/?coupon=bitcoin-safe">Specter DIY</a>)  
 - {{<text-name-with-logo>}} incluye instrucciones con capturas de pantalla para cada dispositivo de hardware que te guían paso a paso.

@@ -82,7 +82,7 @@ display_items:
       '
   7-keystone:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/keystone-3-pro-thumb.webp"
-    target_url: "https://keyst.one"
+    target_url: "https://keyst.one/?rfsn=8630473.c25550a&utm_source=refersion&utm_medium=affiliate&utm_campaign=8630473.c25550a"
     title: "Keystone"
     description: '
       <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
@@ -92,7 +92,7 @@ display_items:
   8-ledger:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/ledger-nano-x-thumb.webp"
     target_url: "https://shop.ledger.com/pages/ledger-nano-s-plus"
-    title: "Ledger Nano"
+    title: "Ledger Nano S / S Plus / X"
     description: '
       <img src="/images/usb.svg"  class="coloredicon"  style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="USB logo">
       '
@@ -105,11 +105,11 @@ display_items:
       <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
       <span class="bitcoin-only">Bitcoin-only</span>
       '
-    banner: "5% off"      
+    # banner: "5% off"      
 ---
 
 ### {{< page-title >}}  
-
+ <br> 
 {{< displayitems >}}
 
  <br><br> 
