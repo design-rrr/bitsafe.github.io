@@ -51,7 +51,8 @@ display_items:
     description: '
       <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
       <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
-      <span class="bitcoin-only">Bitcoin-only</span>
+      <span class="bitcoin-only">Bitcoin-only</span><br>
+      Get $10 off with the code: <b>BITCOINSAFE</b>
       '
   4-jade:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/jade-thumb.webp"
@@ -105,7 +106,8 @@ display_items:
     description: '
       <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
       <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
-      <span class="bitcoin-only">Bitcoin-only</span>
+      <span class="bitcoin-only">Bitcoin-only</span><br>
+      Get 5% off
       '
     # banner: "Get 5% off"      
 
