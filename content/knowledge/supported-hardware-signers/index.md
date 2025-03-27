@@ -100,14 +100,14 @@ display_items:
       '
     # - Seed extraction in principle possible via ledger recover
   9-specter:
-    image_url: "https://thebitcoinhole.com/img/hardware-wallets/specter-diy-thumb.webp"
+    image_url: "specter-diy.png"
     target_url: "https://clavastack.com/?coupon=bitcoin-safe"
-    title: "Specter Shield"
+    title: "Specter DIY / Shield / Shield Lite"
     description: '
       <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
       <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
-      <span class="bitcoin-only">Bitcoin-only</span><br>
-      Get 5% off
+      <span class="bitcoin-only">Bitcoin-only</span><br> 
+      Get 5% off with the code: <b>bitcoin-safe</b>      
       '
     # banner: "Get 5% off"      
 
