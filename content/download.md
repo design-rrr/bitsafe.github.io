@@ -33,6 +33,18 @@ gpg --verify Bitcoin-Safe-{{< latest_version >}}-x86_64.AppImage.asc
 ```
 
 
+<br>
+
+<br>
+
+###  Minimum Requirements
+
+| OS         | Minimum Version |
+|------------|-----------------|
+|  macOS arm64  |   >= MacOSX 14             |
+|  macOS   x86_64 |   >=  MacOSX 13            |
+| Windows        |   64bit              |
+| Linux      |   [glibc>=2.35](https://pkgs.org/search/?q=glibc), e.g., ubuntu-22.04, Fedora 36, Arch Linux - 6/2022,  Debian 12 (Bookworm)           |
 
 
 
