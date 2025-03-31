@@ -18,4 +18,4 @@ menu:
 - El Salvador
 
 
-Contacto: vea [Contacto](/en/contact)
+Contacto: vea [Contacto]({{< ref "contact" >}})

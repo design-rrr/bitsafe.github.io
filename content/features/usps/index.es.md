@@ -19,10 +19,10 @@ weight: 1000
 <!-- - ❌ 2-de-3 Multisignature es complejo de usar en otras billeteras -->
 <!-- - 2-de-3 Multisignature es una buena elección  
     - Robusto contra la pérdida o filtración de 1 semilla -->
-- El {{<text-name-with-logo>}} <a href="/page/setup-multisignature-wallet" role="button">asistente de configuración</a> hace que las configuraciones de firmas únicas y multifirma sean **fáciles** para personas no técnicas.
+- El {{<text-name-with-logo>}} <a href="{{< ref "knowledge/setup-singlesig-wallet" >}}" role="button">asistente de configuración</a> hace que las configuraciones de firmas únicas y multifirma sean **fáciles** para personas no técnicas.
     --> Simplemente sigue cada paso para configurar una billetera segura.
     <img src="/images/multisig-steps.png" style="max-width: 600px; width: 100%;">
-    - El <a href="/page/pdf-export" role="button"> <img src="/en/page/usps/pdf-export.png" width="100"> PDF Export</a> te ayuda a respaldar el descriptor importante de la billetera con cada semilla.
+    - El <a href="{{< ref "features/pdf-export" >}}" role="button"> <img src="/en/features/pdf-export/1.png" width="100"> PDF Export</a> te ayuda a respaldar el descriptor importante de la billetera con cada semilla. 
     - Registra la multifirma con cada dispositivo de hardware.
     - Incluye pruebas de recepción y gasto desde la billetera para asegurar que todos los dispositivos de hardware funcionen.
 <br>

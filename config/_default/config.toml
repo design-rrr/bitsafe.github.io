@@ -1,5 +1,5 @@
 baseURL = 'https://bitcoin-safe.org/'
-languageCode = 'en-us'
+languageCode = 'en-Us'
 title = 'Bitcoin Safe'
 
 

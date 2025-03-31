@@ -20,7 +20,7 @@ menu:
 
 
 
-Los archivos binarios de Windows están firmados, consulta la [Política de firmado de código](/es/code-signing-policy). Ver aquí la  [Política de privacidad de Bitcoin Safe](/es/code-signing-policy).
+Los archivos binarios de Windows están firmados, consulta la [Política de firmado de código]({{< ref "code-signing-policy" >}}). Ver aquí la  [Política de privacidad de Bitcoin Safe]({{< ref "code-signing-policy" >}}).
 
 
 

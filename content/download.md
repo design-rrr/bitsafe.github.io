@@ -17,7 +17,7 @@ menu:
 ✅ **Bitcoin Safe notifies you of a newer version and verifies the authenticity automatically.**
 
 
-Windows binary files are signed, check the [Code signing policy](/en/code-signing-policy). See here the   [Bitcoin Safe privacy policy](/en/code-signing-policy).  The  MacOS binaries are not signed, so please disregard the warning message.
+Windows binary files are signed, check the [Code signing policy]({{< ref "code-signing-policy" >}}). See here the   [Bitcoin Safe privacy policy]({{< ref "code-signing-policy" >}}).  The  MacOS binaries are not signed, so please disregard the warning message.
 
 <br>
 <br>

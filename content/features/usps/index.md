@@ -20,10 +20,10 @@ weight: 1000
 <!-- - ❌ 2-of-3 Multisignature is complex to use in other wallets -->
 <!-- - 2-of-3 Multi-signature is a good choice  
     - Robust against loss or leak of 1 seed  -->
-- The {{<text-name-with-logo>}} <a  href="/page/setup-multisignature-wallet" role="button">setup wizard</a>    makes Single and  Multi-signature **easy**   for non-technical people
+- The {{<text-name-with-logo>}} <a  href={{< ref "knowledge/setup-singlesig-wallet" >}} role="button">setup wizard</a>    makes Single and  Multi-signature **easy**   for non-technical people
     --> Simply follow each step to set up a safe wallet.   
     <img  src="/images/multisig-steps.png" style="max-width: 600px; width: 100%;">
-    - The <a  href="/page/pdf-export" role="button"> <img  src="pdf-export.png" width="100">  PDF Export</a>   helps you to backup the important wallet descriptor with each seed.
+    - The <a  href={{< ref "features/pdf-export" >}}   role="button"> <img  src="pdf-export.png" width="100">  PDF Export</a>   helps you to backup the important wallet descriptor with each seed.
     - Register the Multi-signature with each hardware signer 
     - Includes test receiving and spending from the wallet, to ensure all major hardware signers work
 <br>
