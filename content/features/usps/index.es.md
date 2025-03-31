@@ -33,7 +33,7 @@ weight: 1000
 #### ✔ Sincronización y respaldo de etiquetas
 
 {{<text-name-with-logo>}} mágicamente (a través del poder de mensajes cifrados de <a href="https://nostr.com/">nostr</a>) 
-- <a href="/page/label-sync" role="button">Sincroniza</a> tus categorías de monedas y etiquetas entre computadoras.
+- <a href="{{< ref "features/label-sync" >}}" role="button">Sincroniza</a> tus categorías de monedas y etiquetas entre computadoras.
 - Respalda tus categorías de monedas y etiquetas. Todo lo que necesitas es respaldar una pequeña clave de respaldo.
 
 
@@ -43,8 +43,8 @@ weight: 1000
 
 ¿Participas en una billetera multifirma 3-de-5?
 
-- Después de crear la billetera, {{<text-name-with-logo>}} crea un chat grupal cifrado en <a href="https://nostr.com/">nostr</a> para colaborar y <a href="/page/collaboration" role="button">enviar PSBTs</a> para firmar.
-- La <a href="/page/label-sync" role="button">sincronización de etiquetas</a>, por supuesto, también funciona.
+- Después de crear la billetera, {{<text-name-with-logo>}} crea un chat grupal cifrado en <a href="https://nostr.com/">nostr</a> para colaborar y <a href="{{< ref "features/collaboration" >}}" role="button">enviar PSBTs</a> para firmar.
+- La <a href="{{< ref "features/label-sync" >}}" role="button">sincronización de etiquetas</a>, por supuesto, también funciona.
 - Por seguridad, cada participante debe autenticar (con un simple clic) a los demás usuarios.
 
 
@@ -52,7 +52,7 @@ weight: 1000
 
 #### ✔ Organiza direcciones en categorías de monedas
 
- <img src="/en/page/usps/coin-categories.png" width="150"> 
+ <img src="/en/features/usps/coin-categories.png" width="150"> 
  
 - Puedes agrupar direcciones en **categorías de monedas**. Es más fácil que etiquetar cada dirección.
 - Para cada PSBT que crees, seleccionas la categoría de moneda correspondiente y {{<text-name-with-logo>}} seleccionará las entradas solo de esa categoría.
