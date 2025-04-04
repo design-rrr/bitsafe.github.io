@@ -7,14 +7,16 @@ images: [ "logo.png" ]
 keywords: ["send"]
 previewimage: "logo.png"
 weight: 0
+
+videos:
+  - "https://www.youtube.com/watch?v=oQB2qzYZ_cw"
 ---
 
-### {{< page-title >}} 
-{{< page-description >}} 
+### {{< page-title >}}  
+  
+ 
 
-<br>
 
+{{< youtube-gallery >}} 
 
-![](https://raw.githubusercontent.com/andreasgriffin/bitcoin-safe/refs/heads/main/docs/psbt-share.gif)
-{ .img-fluid .mb-5 }
-
+ 
