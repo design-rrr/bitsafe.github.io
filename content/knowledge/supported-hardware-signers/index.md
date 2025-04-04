@@ -62,6 +62,8 @@ display_items:
       <img src="/images/usb.svg"  class="coloredicon"  style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="USB logo">
       <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
       <span class="bitcoin-only">Bitcoin-only</span>
+      <br> 
+      Get 10% off with the code: <b>XEocg5boS77D</b>      
       '
   5-jadeplus:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/jade-plus-metal-thumb.webp"
@@ -72,6 +74,8 @@ display_items:
       <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
       <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
       <span class="bitcoin-only">Bitcoin-only</span>
+      <br> 
+      Get 10% off with the code: <b>XEocg5boS77D</b>      
       '
   6-trezor:
     image_url: "https://thebitcoinhole.com/img/hardware-wallets/trezor-safe-5-btconly-thumb.webp"
