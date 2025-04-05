@@ -15,7 +15,11 @@ videos:
 ### {{< page-title >}}  
   
  
-
+1. Dave and Joe want to send funds to Alice  using their 2-of-3 multisig wallet 🤝
+2. They coordinate via encrypted Nostr chat and **share the PSBT with 1 click** ⚡
+3. 🟢 Dave signs first using his [Jade]({{< ref "knowledge/supported-hardware-signers/" >}}) hardware signer
+4. 🧑‍💻 Joe signs with his [BitBox02]({{< ref "knowledge/supported-hardware-signers/" >}}) – fast and smooth
+5. 🧾 Final review of Dave → ✅ broadcast to the Bitcoin network 🚀
 
 {{< youtube-gallery >}} 
 
