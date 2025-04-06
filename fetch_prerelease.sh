@@ -15,3 +15,8 @@ mkdir -p data
 curl -s "$PRE_RELEASES_API_URL" \
   | jq '[ .[] | select(.prerelease == true) ] | first' \
   > "$PRERELEASE_OUTPUT_FILE"
+
+
+
+
+./update_readme.sh

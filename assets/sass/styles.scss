@@ -71,3 +71,18 @@
 .card-subtitle time.ms-2 {
     display: none;
 }
+
+
+// /* Ensure all images scale to fit the width of their container */
+// img {
+//     max-width: 100%;
+//     height: auto;
+//   }
+  
+
+/* Ensure images inside tables scale properly */
+table img {
+    max-width: 100%;
+    height: auto;
+  }
+  
