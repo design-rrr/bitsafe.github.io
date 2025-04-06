@@ -113,6 +113,15 @@ display_items:
       <span class="bitcoin-only">Bitcoin-only</span><br> 
       Get 5% off with the code: <b>bitcoin-safe</b>      
       '
+  91-seedsigner:
+    image_url: "https://thebitcoinhole.com/img/hardware-wallets/seedsigner-thumb.webp"
+    target_url: "https://seedsigner.com/"
+    title: "SeedSigner"
+    description: '
+      <img src="/images/qr-code.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="QR logo">
+      <img src="/images/sd-card.svg"  class="coloredicon"   style="height: 1.5em; margin-right: 1em; margin-bottom: 1em;" alt="SD Card logo" >
+      <span class="bitcoin-only">Bitcoin-only</span><br> 
+      '
     # banner: "Get 5% off"      
 
 ---
