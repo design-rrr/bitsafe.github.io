@@ -5,7 +5,33 @@ draft: false
 tags: ["Knowledge" ]
 # Download the logo from here https://i.ytimg.com/vi/xxxxxxxx/maxresdefault.jpg
 images: ["maxresdefault.png" ]
-keywords: []
+keywords: [
+  "What is money",
+  "Functions of money",
+  "Evolution of money",
+  "What is Bitcoin",
+  "Bitcoin explained",
+  "Bitcoin for beginners",
+  "Bitcoin wallet tutorial",
+  "Create a Bitcoin wallet",
+  "Bitcoin Safe",
+  "Bitcoin education",
+  "Inflation explained",
+  "Shrinkflation",
+  "Bitcoin vs fiat",
+  "Ludwig von Mises",
+  "Henry Ford on money",
+  "Bitcoin and inflation",
+  "Blockchain basics",
+  "Lightning Network",
+  "Peer to peer money",
+  "Decentralized currency",
+  "Bitcoin security",
+  "Bitcoin Safe tutorial",
+  "Bitcoin",
+  "Digital currency"
+]
+
 # embedding videos can be done with 
 # {{< youtube-embed link="https://www.youtube.com/watch?v=dbSmQmt0uDI" >}}
 # or the list will be rendered below the content

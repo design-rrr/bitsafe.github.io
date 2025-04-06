@@ -5,7 +5,21 @@ draft: false
 tags: ["Featured", "Knowledge"]
 # Download the logo from here https://i.ytimg.com/vi/m0g6ytYTy0w/maxresdefault.jpg
 images: ["maxresdefault.jpg" ]
-keywords: []
+keywords: [
+  "secure Bitcoin wallet for families",
+  "bitcoin",
+  "bitcoin saving",
+  "hardware signer",
+  "Bitcoin Custodians",
+  "Financial Advisors",
+  "bitcoin wallet",
+  "trezor",
+  "usa bitcoin",
+  "BTC",
+  "HODL",
+  "BitcoinSecurity"
+]
+
 weight: 30
 # embedding videos can be done with 
 # {{< youtube-embed link="https://www.youtube.com/watch?v=dbSmQmt0uDI" >}}

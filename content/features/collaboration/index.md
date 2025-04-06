@@ -4,7 +4,31 @@ description: "Send a PSBT between participants in a Multi-party Multisig wallet"
 draft: false
 tags: ["Featured","Features",  "sync" ]
 images: [ "logo.png" ]
-keywords: ["send"]
+keywords: [ 
+  "Bitcoin Safe",
+  "Bitcoin multisig",
+  "Multisig wallet",
+  "2-of-3 multisig",
+  "Collaborative custody",
+  "Bitcoin transaction signing",
+  "PSBT signing",
+  "Hardware wallet multisig",
+  "Jade wallet",
+  "Jade Plus wallet",
+  "Bitbox02",
+  "Bitcoin wallet security",
+  "Nostr",
+  "Decentralized chat",
+  "Bitcoin Safe demo",
+  "Multisig tutorial",
+  "Bitcoin treasury",
+  "Bitcoin organization wallet",
+  "Shared Bitcoin custody",
+  "Async Bitcoin signing",
+  "Secure Bitcoin wallet",
+  "Family Bitcoin wallet",
+  "Bitcoin wallet walkthrough",
+  "Bitcoin collaborative signing"]
 previewimage: "logo.png"
 weight: 0
 
