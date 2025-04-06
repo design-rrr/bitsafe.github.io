@@ -16,5 +16,11 @@ weight: 20
 
 ### {{< page-title >}}  
 
+🔒 Not Your Keys, Not Your Coins! Learn how to verify a Bitcoin receive address using Trezor and Jade hardware wallets to ensure your funds go exactly where they should. Don’t risk sending Bitcoin to the wrong address—follow this step-by-step guide to stay safe!
+
+- ✅ Why verifying a receive address is critical for Bitcoin security
+- ✅ How to verify your address using Trezor
+- ✅ How to verify your address using Jade
+- ✅ Tips to prevent fraud and secure your Bitcoin
 
 {{< youtube-gallery >}}

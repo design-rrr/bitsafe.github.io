@@ -17,8 +17,13 @@ videos:
 
 # Single Signature Wallet
 
-Want to secure your Bitcoin the right way? Learn how to set up a Bitcoin-Safe.org wallet with Trezor
- ! 🔐💰
+🔒 Setting up a secure Bitcoin-Safe.org wallet is the best way to protect your funds from exchange failures, hacks, and theft. In this tutorial, we’ll walk you through the entire process with Trezor—step by step!
+ 
+
+- ✅ How to set up a Bitcoin-Safe.org wallet from scratch
+- ✅ How to connect & configure your Trezor hardware wallet
+- ✅ Essential security tips to keep your Bitcoin safe
+
 
 
 {{< youtube-gallery >}}
