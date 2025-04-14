@@ -96,6 +96,7 @@ Bitcoin Safe **usa colores para identificar direcciones**, ayudando a detectar m
 Si alguien intenta reemplazar tu dirección con una falsa, lo verás al instante.
 
 ![Ejemplo de detección de envenenamiento de direcciones](https://i.postimg.cc/Pr4QwkgZ/431986530-187e3dbc-05f5-4386-8f80-f15eb2170fb1.png)
+{ .img-fluid .mb-5 }
 
 ---
 

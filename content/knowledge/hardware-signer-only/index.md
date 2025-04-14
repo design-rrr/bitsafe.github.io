@@ -95,6 +95,7 @@ Bitcoin Safe **color-codes receive addresses** to make address poisoning obvious
 If someone tries to poison your clipboard with a fake address, you'll see it instantly.
 
 ![Address poisoning detection example](https://i.postimg.cc/Pr4QwkgZ/431986530-187e3dbc-05f5-4386-8f80-f15eb2170fb1.png)
+{ .img-fluid .mb-5 }
 
 ---
 
