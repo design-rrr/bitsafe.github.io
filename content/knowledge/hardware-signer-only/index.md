@@ -23,7 +23,7 @@ images: ["logo.png" ]
 # or the list will be rendered below the content
 # videos:
 #   - "https://www.youtube.com/watch?v=dbSmQmt0uDI"
-weight: 20
+weight: 21
 ---
 
  
@@ -32,7 +32,7 @@ weight: 20
 
 🤔 Isn't that inconvenient?
 
-🔥 Not really — it's a **major security upgrade**.
+🔥 Turns out — it's a **major security upgrade**.
 
 Bitcoin Safe **only allows software seeds on Testnet, Signet, and Regtest** — never on Mainnet. Here's why:
 
@@ -71,16 +71,17 @@ Bitcoin Safe **only allows software seeds on Testnet, Signet, and Regtest** — 
 </br>
 
 - 🔐 **Mainnet requires hardware signers — no exceptions**
-  - Bitcoin Safe supports a broad list of secure devices: [View all supported signers →]({{< ref "knowledge/supported-hardware-signers" >}})
-    - [COLDCARD Mk4]({{< ref "knowledge/supported-hardware-signers" >}})
+  - 🔌 USB, 📷 QR, and 💾 SD card with all major  devices
+    - [Coldcard]({{< ref "knowledge/supported-hardware-signers" >}})
     - [BitBox02]({{< ref "knowledge/supported-hardware-signers" >}})
     - [Blockstream Jade]({{< ref "knowledge/supported-hardware-signers" >}})
     - [Foundation Passport]({{< ref "knowledge/supported-hardware-signers" >}})
-    - [Trezor]({{< ref "knowledge/supported-hardware-signers" >}})
+    - [Trezor Safe]({{< ref "knowledge/supported-hardware-signers" >}})
     - [Ledger]({{< ref "knowledge/supported-hardware-signers" >}})
-    - [SeedSigner]({{< ref "knowledge/supported-hardware-signers" >}})
     - [Keystone]({{< ref "knowledge/supported-hardware-signers" >}})
     - [Specter DIY]({{< ref "knowledge/supported-hardware-signers" >}})
+    - [SeedSigner]({{< ref "knowledge/supported-hardware-signers" >}})
+  - [View all supported signers →]({{< ref "knowledge/supported-hardware-signers" >}})
 
 
 ---
@@ -107,13 +108,27 @@ Verify receive addresses directly on your hardware signer — no need to trust t
 
 ---
 
+
+
+## ✅ Instructions for each hardware signer
+ 
+- {{<text-name-with-logo>}} includes screenshots instructions for each hardware signer to guide you through every step 
+    <div style="max-width: 500px;  width: 100%;">
+        {{< carousel-hardware-signer-screenshots >}}
+    </div>
+
+   
+---
+
+
+
 ## 🤝 Collaborative multisig made easy
 
 Bitcoin Safe makes multisig user-friendly and team-ready:
 
 - 🔐 Encrypted Nostr chat  
 - 🔁 1-click PSBT sharing  
-- 💾 USB, SD card, and QR workflows
+- 🔌 USB, 📷 QR, and 💾 SD card
 
 {{< youtube-embed link="https://www.youtube.com/watch?v=oQB2qzYZ_cw" >}}
 
@@ -134,7 +149,7 @@ Bitcoin Safe makes multisig user-friendly and team-ready:
 
 ## 🌍 Global and user-friendly
 
-- Multilingual support: 🇺🇸 🇨🇳 🇪🇸 🇯🇵 🇷🇺 🇵🇹 🇮🇳 🇮🇹 🇫🇷 🇩🇪 🇲🇲 🇰🇷  
+- Multilingual support: {{< flags-short >}}
 - Works on: Windows, macOS & Linux  
 - Drag-and-drop PSBT / CSV  
 - Advanced filters for transactions, UTXOs, amounts, and more
@@ -151,5 +166,5 @@ Bitcoin Safe = Real Bitcoin savings:
 ✅ Developer-friendly testing environments  
 ✅ Family & team-ready features  
 
-🔗 [bitcoin-safe.org](https://bitcoin-safe.org)  
-🎥 [YouTube channel →](https://youtube.com/@BitcoinSafeOrg): https://youtube.com/@BitcoinSafeOrg
+🔗 [Bitcoin-Safe.org](https://Bitcoin-Safe.org)  
+🎥 YouTube channel →: https://youtube.com/@BitcoinSafeOrg
