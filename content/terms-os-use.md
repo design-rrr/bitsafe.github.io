@@ -58,4 +58,4 @@ Date: *3th Nov 2024*
 
 8. Contact Us
 
-    - For questions regarding these Terms, please contact us at [nostr](https://primal.net/p/npub1q67f4d7qdja237us384ryeekxsz88lz5kaawrcynwe4hqsnufr6s27up0e)
+    - For questions regarding these Terms, please contact us at [nostr](https://yakihonne.com/users/npub1g9uhysae68vhvwwqel8v9enr9mg43rn4tpurs6a9g4jsrw6nl7lsplhs9v)
