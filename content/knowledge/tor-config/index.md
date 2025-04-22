@@ -4,7 +4,7 @@ description: "Use your own node via Start9 or Umbrel"
 draft: false
 tags: ["Knowledge" ]
 # Download the logo from here https://i.ytimg.com/vi/xxxxxxxx/maxresdefault.jpg
-images: ["config.png" ]
+images: ["logo.png" ]
 keywords: [ "tor"
 ]
 
