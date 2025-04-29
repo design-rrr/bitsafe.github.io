@@ -25,7 +25,7 @@ weight = 55
 
 [[main]]
 identifier = "Donate"
-name = "⚡Donar"
+name = "⚡Apóyate"
 url = "donate"
 weight = 60
 
