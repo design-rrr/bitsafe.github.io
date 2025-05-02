@@ -58,4 +58,4 @@ Fecha: *3 de noviembre de 2024*
 
 8. Contactarnos
 
-    - Para preguntas sobre estas Condiciones, por favor contactenos en [nostr](https://primal.net/p/npub1q67f4d7qdja237us384ryeekxsz88lz5kaawrcynwe4hqsnufr6s27up0e)
+    - Para preguntas sobre estas Condiciones, por favor contactenos en [nostr](https://yakihonne.com/users/npub1g9uhysae68vhvwwqel8v9enr9mg43rn4tpurs6a9g4jsrw6nl7lsplhs9v)

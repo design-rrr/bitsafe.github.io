@@ -86,3 +86,37 @@ table img {
     height: auto;
   }
   
+
+
+  
+/* Ensure the heading is the positioning context */
+h1,h2, h3, h4, h5, h6 {
+    position: relative;
+  }
+  
+  /* Base style: zero-width, hidden, no layout shift */
+  .header-anchor {
+    position: absolute;
+    left: 0;
+    padding-right: 0.3em;
+    margin-left: -1.3em;    /* pulls it into the gutter */
+    width: 0;             /* collapsed when not in use */
+    overflow: hidden;     /* hide both icon + any extra */
+    opacity: 0;
+    white-space: nowrap;  /* keep it on one line */
+    font-size: 0.7em;     /* make the icon smaller */
+    transition:
+      opacity 0.2s ease-in-out,
+      width 0.2s ease-in-out;
+  }
+  
+  /* On hover (of the heading), expand and show */
+  h2:hover .header-anchor,
+  h3:hover .header-anchor,
+  h4:hover .header-anchor,
+  h5:hover .header-anchor,
+  h6:hover .header-anchor {
+    width: auto;   /* allow it to size to its content */
+    opacity: 1;
+  }
+  
